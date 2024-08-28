@@ -8,4 +8,7 @@ Tutorial from [Flutter Mapper](https://www.youtube.com/watch?v=qZ21x_ugJjA)
 
 ## Screenshots
 
-![Dark Mode](images/dark.png) ![Light Mode](images/light.png)
+<p align="center">
+  <img src="images/dark.png" alt="Dark Mode" width="400"/>
+  <img src="images/light.png" alt="Light Mode" width="400"/>
+</p>
