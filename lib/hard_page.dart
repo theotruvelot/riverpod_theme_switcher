@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpodlearningfluttermap/riverpod_data.dart';
+import 'package:riverpod_theme_switcher/riverpod_data.dart';
 
 class HardPage extends ConsumerWidget {
   const HardPage({super.key});
